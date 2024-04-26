@@ -1,0 +1,17 @@
+C:\Test\Waluta\Waluta\bin\Debug\net6.0\Waluta.exe
+C:\Test\Waluta\Waluta\bin\Debug\net6.0\Waluta.deps.json
+C:\Test\Waluta\Waluta\bin\Debug\net6.0\Waluta.runtimeconfig.json
+C:\Test\Waluta\Waluta\bin\Debug\net6.0\Waluta.dll
+C:\Test\Waluta\Waluta\bin\Debug\net6.0\Waluta.pdb
+C:\Test\Waluta\Waluta\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.csproj.AssemblyReference.cache
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.AssemblyInfoInputs.cache
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.AssemblyInfo.cs
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.csproj.CoreCompileInputs.cache
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.csproj.CopyComplete
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.dll
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\refint\Waluta.dll
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.pdb
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\Waluta.genruntimeconfig.cache
+C:\Test\Waluta\Waluta\obj\Debug\net6.0\ref\Waluta.dll

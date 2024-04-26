@@ -1,0 +1,14 @@
+C:\Test\Losowy\Losowy\bin\Debug\net6.0\Losowy.exe
+C:\Test\Losowy\Losowy\bin\Debug\net6.0\Losowy.deps.json
+C:\Test\Losowy\Losowy\bin\Debug\net6.0\Losowy.runtimeconfig.json
+C:\Test\Losowy\Losowy\bin\Debug\net6.0\Losowy.dll
+C:\Test\Losowy\Losowy\bin\Debug\net6.0\Losowy.pdb
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.AssemblyInfoInputs.cache
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.AssemblyInfo.cs
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.csproj.CoreCompileInputs.cache
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.dll
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\refint\Losowy.dll
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.pdb
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\Losowy.genruntimeconfig.cache
+C:\Test\Losowy\Losowy\obj\Debug\net6.0\ref\Losowy.dll

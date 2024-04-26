@@ -1,0 +1,14 @@
+C:\Test\Litera_a\Litera_a\bin\Debug\net6.0\Litera_a.exe
+C:\Test\Litera_a\Litera_a\bin\Debug\net6.0\Litera_a.deps.json
+C:\Test\Litera_a\Litera_a\bin\Debug\net6.0\Litera_a.runtimeconfig.json
+C:\Test\Litera_a\Litera_a\bin\Debug\net6.0\Litera_a.dll
+C:\Test\Litera_a\Litera_a\bin\Debug\net6.0\Litera_a.pdb
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.AssemblyInfoInputs.cache
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.AssemblyInfo.cs
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.csproj.CoreCompileInputs.cache
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.dll
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\refint\Litera_a.dll
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.pdb
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\Litera_a.genruntimeconfig.cache
+C:\Test\Litera_a\Litera_a\obj\Debug\net6.0\ref\Litera_a.dll
